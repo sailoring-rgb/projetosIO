@@ -2,7 +2,7 @@
 
 Projetos de Investigação Operacional 21/22
 
-Classificação do TP1: .../20\
+Classificação do TP1: 16/20\
 Classificação do TP2: .../20
 
 # Autores
