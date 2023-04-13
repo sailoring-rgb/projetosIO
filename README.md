@@ -1,6 +1,6 @@
 # IO
 
-Projects accomplished in the scope of <b><i>Operational Systems 21/22</i></b>
+Projects accomplished in the scope of <b><i>Operational Investigation 21/22</i></b>
 
 - <a href="https://github.com/sailoring-rgb/projetosIO/tree/main/TP1">TP1</a> Classification: 16/20
 - <a href="https://github.com/sailoring-rgb/projetosIO/tree/main/TP2">TP2</a> Classification: 17/20
